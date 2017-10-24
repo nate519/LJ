@@ -1,0 +1,22 @@
+{
+  "name": "lj",
+  "version": "1.0.0",
+  "description": "= Learning JavaScript, 3rd Edition\r == Chapter 2 : JavaScript Development Tools",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate519/LJ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate519/LJ/issues"
+  },
+  "homepage": "https://github.com/nate519/LJ#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
