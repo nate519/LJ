@@ -18,5 +18,11 @@
   "homepage": "https://github.com/nate519/LJ#readme",
   "dependencies": {
     "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-eslint": "^4.0.0"
   }
 }
